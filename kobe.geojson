@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "City Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.19588708877563,
+          34.689509912442894
+        ]
+      }
+    }
+  ]
+}
